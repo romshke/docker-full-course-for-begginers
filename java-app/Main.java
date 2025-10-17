@@ -61,7 +61,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        System.out.println("Добро пожаловать в календарь");
+        System.out.println("Добро пожаловать в супер календарь");
 
         int year, month;
 
